@@ -1,0 +1,9 @@
+﻿  DT285_Project2.cpp
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 2\Semester 2\Computer Graphics 2\Project 2\SDL_Project\SDL_Project\DT285_Project2.cpp(195,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 2\Semester 2\Computer Graphics 2\Project 2\SDL_Project\SDL_Project\DT285_Project2.cpp(227,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 2\Semester 2\Computer Graphics 2\Project 2\SDL_Project\SDL_Project\DT285_Project2.cpp(228,10): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 2\Semester 2\Computer Graphics 2\Project 2\SDL_Project\SDL_Project\DT285_Project2.cpp(229,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 2\Semester 2\Computer Graphics 2\Project 2\SDL_Project\SDL_Project\DT285_Project2.cpp(230,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 2\Semester 2\Computer Graphics 2\Project 2\SDL_Project\SDL_Project\DT285_Project2.cpp(231,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 2\Semester 2\Computer Graphics 2\Project 2\SDL_Project\SDL_Project\DT285_Project2.cpp(232,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  SDL_Project.vcxproj -> C:\Users\user\Documents\CREATIVE TECHNOLOGY\Year 2\Semester 2\Computer Graphics 2\Project 2\SDL_Project\x64\Debug\SDL_Project.exe
